@@ -1,0 +1,32 @@
+.bannerimage{
+    background-color: #EDF5E1;
+    display: flex;
+
+    justify-content: space-around;
+    align-items: center;
+    height: 700px;
+  
+}
+
+.colum_left > input{
+    width: 400px;
+    margin-top: 0px;
+}
+
+
+
+.colum_right > input {
+opacity: 1;
+    border: none;
+    width: 100px;
+    height: 40px;
+}
+
+.colum_right > h1 {
+    color: black;
+    font-size: 300%;
+    
+
+
+}
+
